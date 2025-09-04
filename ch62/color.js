@@ -1,5 +1,2 @@
-const color = document.getElementById("color");
-
-color.onclick = () => {
-    console.log("pwned!!");
-}
+const color = document.cookie;
+console.log(color);
