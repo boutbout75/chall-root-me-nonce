@@ -1,0 +1,1 @@
+<img src="invalide.png" onerror="a=document.cookie;console.log('pwned!');" />
